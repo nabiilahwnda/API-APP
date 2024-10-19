@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/nabiilahwnda/API-APP/issues"
   },
-  "homepage": "https://github.com/nabiilahwnda/API-APP#readme"
+  "homepage": "https://github.com/nabiilahwnda/API-APP#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mysql": "^2.18.1"
+  }
 }
